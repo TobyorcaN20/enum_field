@@ -1,1 +1,1 @@
-Remove JAX constraints in Exporter (#8309)
+Expand Model method type hinting (#8279)
