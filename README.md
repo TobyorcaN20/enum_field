@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
